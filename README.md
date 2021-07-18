@@ -1,5 +1,5 @@
 # email-admin
-This app create a random email for every uesr of th company. 
+This app create a random email for every uesr of the company. 
 
 <a href="https://github.com/Ats1999/email-admin/blob/master/Email/EmailApp.html">Documention (Clone this repositery and open this file.)</a>  
 
